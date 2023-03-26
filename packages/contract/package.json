@@ -1,15 +1,10 @@
 {
   "name": "another-flash-contract",
   "version": "0.0.0",
-  "description": "",
   "scripts": {
     "compile": "hardhat compile",
-    "test": "hardhat test",
-    "format": "prettier --write 'contracts/**/*.sol' --plugin=prettier-plugin-solidity"
+    "test": "hardhat test"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@ethersproject/abi": "^5.4.7",
     "@ethersproject/providers": "^5.4.7",

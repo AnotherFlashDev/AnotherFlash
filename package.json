@@ -1,0 +1,9 @@
+{
+  "name": "another-flash",
+  "version": "0.0.0",
+  "scripts": {},
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "packageManager": "pnpm@7.27.0"
+}
