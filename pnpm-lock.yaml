@@ -9,10 +9,12 @@ importers:
     specifiers:
       '@hono/node-server': ^0.2.3
       hono: ^3.1.0
+      json-rpc-2.0: ^1.5.1
       tsx: ^3.12.2
     dependencies:
       '@hono/node-server': 0.2.4
       hono: 3.1.2
+      json-rpc-2.0: 1.5.1
     devDependencies:
       tsx: 3.12.6
 
@@ -3378,6 +3380,10 @@ packages:
   /jsbn/0.1.1:
     resolution: {integrity: sha512-UVU9dibq2JcFWxQPA6KCqj5O42VOmAY3zQUfEKxU0KpTGXwNoCjkX1e13eHNvw/xPynt6pU0rZ1htjWTNTSXsg==}
     dev: true
+
+  /json-rpc-2.0/1.5.1:
+    resolution: {integrity: sha512-ZY/vYl/uUgKN3tNrZMq7w+CGLcoUT+8AzDO/HJZVa+K4XcwgfgES1QDa5y7ieAeh4NgRo3hLexMxgdaiEiK9aA==}
+    dev: false
 
   /json-schema-traverse/0.4.1:
     resolution: {integrity: sha512-xbbCH5dCYU5T8LcEhhuh7HJ88HXuW3qsI3Y0zOZFKfZEHcpWiHU/Jxzk629Brsab/mMiHQti9wMP+845RPe3Vg==}
