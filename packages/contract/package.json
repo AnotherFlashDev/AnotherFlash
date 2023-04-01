@@ -1,5 +1,5 @@
 {
-  "name": "another-flash-contract",
+  "name": "bundy-contract",
   "version": "0.0.0",
   "scripts": {
     "compile": "hardhat compile",
